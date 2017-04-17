@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 128M
+  instances: 1
+  domain: mybluemix.net
+  name: Lab8_DUYTT_PS04071
+  host: Lab8DUYTTPS04071
+  disk_quota: 1024M
